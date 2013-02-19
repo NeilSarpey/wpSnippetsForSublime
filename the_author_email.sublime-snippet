@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+the_author_email(); // DEPRECATED : replace with the_author_meta('user_email')
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>the</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+the_shortlink( ${1:\$text}, ${2:\$title}, ${3:\$before}, ${4:\$after} );
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>the</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>

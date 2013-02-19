@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+the_date( ${1:\$format}, ${2:\$before}, ${3:\$after}, ${4:\$echo} );
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>the</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>

@@ -4,6 +4,8 @@ WP Snippets For Sublime is a collection of Sublime Text's snippets for WordPress
 
 ## Functions
 
-### functions "the_"
+For functions without parameters, use the snippet [function_name]. If you prefer the functions with parameters, use the snippet [function_name].params.
 
-All Snippets for functions which are beginning by "the_" can be triggered with "the" 
+### Functions "the_"
+
+All Snippets for functions which are beginning with "the_" (the_title, the_content...), can be triggered with the term "the". 
